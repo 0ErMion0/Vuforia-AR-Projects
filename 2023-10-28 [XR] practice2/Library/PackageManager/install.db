@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "6ce555af7186",
+        "mtime": 1692798184000,
+        "size": 139936948,
+        "localPath": "C:\\Users\\sm_ch\\Unity\\2023-09~2023-12 [XR] Lecture\\2023-10-28 [XR] practice2\\Packages\\com.ptc.vuforia.engine-10.17.4.tgz"
+      }
+    }
+  }
+}
